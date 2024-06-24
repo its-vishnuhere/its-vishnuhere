@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @its-vishnuhere
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN
-- 📫 How to reach me in ppvishnupriyan@gmail.com
+- 📫 How to reach me in www.linkedin.com/in/its-vishnu
 
 
 <!---
